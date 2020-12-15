@@ -1,0 +1,53 @@
+.menu2 > .navbar-nav{
+    display: flex;
+}
+.borde{
+    border: black solid 1px;
+    margin-top:5% ;
+    margin-left: 16%;
+    margin-right: 20%;
+    margin-bottom: 7%;
+}
+
+.borde > .marjen{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 7%;
+}
+
+.borde > .marjen > p{
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+
+.borde > .marjen > img{
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+.borde > .marjen > .borde3{
+border-left: solid 3px blueviolet;
+}
+
+.borde > .marjen > .borde3 > p{
+    margin-left: 4%;
+    font-size: 20px;
+    margin-right: 15%;
+    margin-bottom: 5%;
+}
+
+.borde > .marjen > h1{
+    margin-bottom: 3%;
+}
+
+.borde > .marjen > span{
+    font-weight: bold;
+}
+
+.borde > .marjen > h4{
+    margin-bottom: 3%;
+}
+
+.borde > .marjen > .espacio{
+    margin-bottom: 10%;
+}

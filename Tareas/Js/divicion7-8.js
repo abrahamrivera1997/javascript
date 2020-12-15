@@ -1,7 +1,7 @@
 function divisionnumeros() {
     
-    let num1 = 5;
-    let num2 = 100;
+    let num1 = 7;
+    let num2 = 8;
     let division = 0;
 
     division = num1 / num2;

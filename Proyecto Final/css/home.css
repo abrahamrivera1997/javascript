@@ -1,0 +1,77 @@
+.principal{
+    border: black solid 1px;
+    margin-top: 5%;
+    width: 59.6%;
+    left: 20%;
+    position: relative;
+    
+}
+
+.principal > p{
+    margin-top: 2.5%;
+    font-size: 15px;
+    margin-left: 2.5%;
+}
+
+.newpost{
+    display: flex;
+    border-top: solid 1px black;
+    border-bottom: black solid 1px;
+    margin-top: 5%;
+}
+
+.newpost > .form-group{
+    position: relative;
+    left: 9%;
+    width: 25%;
+}
+
+.newpost > #susctito{
+    position: relative;
+    left: 10%;
+    height: 20%;
+    width: 17%;
+    margin-top: 1.9%;
+}
+
+.newpost > #susctito:hover{
+    background: black;
+}
+
+.newpost > h1{
+    margin-top: 1%;
+    margin-left: 2%;
+}
+
+.border1{
+    display: flex;
+    border: solid 1px black;
+    width: 37%;
+    height: 49vh;
+    margin-left: 10%;
+    margin-bottom: 6%;
+}
+
+.border2 > .border1{
+    margin-left: 3%;
+    margin-top: 3%;
+    margin-right: 3%;
+}
+
+.border1> .borde3 > .linea{
+    margin-top: 40%;
+}
+
+h4{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.borde3 > a{
+    text-decoration: none;
+    color: black;
+}
+
+.borde3 > a:hover{
+    color: rgb(226, 43, 43);
+}
